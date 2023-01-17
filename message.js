@@ -3,6 +3,8 @@ const first_part = [
   "Do not forget to",
   "You are never to old to",
   "Always",
+  "Now",
+  "It is a new day for",
 ];
 const second_part = [
   "be corageous,",
