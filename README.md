@@ -11,5 +11,5 @@ This is a script that generates a random motivational message, it might cheer yo
 
 ### Setup
 
-$ cd foldername
-$ node message.js
+>$ cd foldername
+>$ node message.js
